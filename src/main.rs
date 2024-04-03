@@ -1,3 +1,3 @@
 fn main() {
-    println!("Hello, world!");
+    println!("ПР2, Крылов А.В., Дунаев В.Е.");
 }
